@@ -1,0 +1,22 @@
+*****************************************************************
+************************REPORTE DE INVENTARIO********************
+*****************************************************************
+IDproducto	NombreProducto	Categoria	Precio	CantidadDisponible
+*****************************************************************
+3001	cepillo	aseo	8888.0	20
+1002	PapasFritassaborpollo	paquetes	2005.0	50
+1003	Chiclesdelimon	chicles	220.11	100
+1004	PapasFritassaborpollo	paquetes	2005.0	52
+1005	ChocolatesJet	dulces	550.5	35
+1006	GaseosaCocaCola	gaseosas	5500.0	40
+1007	GaseosaColombiana	gaseosas	5000.0	60
+1008	GaseosaManzanaPostobon	gaseosas	5000.0	10
+1009	GaseosaUva	gaseosas	5000.22	15
+1010	GaseosaBretana	gaseosas	5000.32	3
+1011	PonqueRamo	ponques	1500.62	25
+1013	Gala	ponques	1800.05	12
+1014	Chitos	paquetes	2000.55	8
+1015	ChiclesMora	chicles	220.0	100
+1016	ChocolatesFerrer	dulces	15550.0	10
+
+ValorTotal del Inventario: 1336173.26
